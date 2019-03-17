@@ -1,0 +1,4 @@
+jhalrapatan 0 --:-- 21:00
+jhalawar 10 21:10 21:15
+kota 90 23:10 23:40
+ajmer 310 5:00 --:--
